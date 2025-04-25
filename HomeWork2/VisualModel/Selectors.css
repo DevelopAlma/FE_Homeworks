@@ -1,0 +1,70 @@
+.FontPage{
+    background-color: rgb(228, 240, 208);
+}
+
+#Title2{
+    display: flex;
+    background-color: rgb(113, 19, 156);
+    align-items: center;
+    justify-content: center;
+    color:white;
+    text-align: center;
+    height: 200px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Description{
+    margin: 0 auto; 
+    background-color: rgb(245, 201, 234);
+    text-align: center;
+    width: 400px;
+    color:rgb(117, 110, 115);
+}
+
+.Contact{
+    border-left: 5px solid blue;
+    margin: 0 auto; 
+    background-color: rgb(245, 201, 234);
+    text-align: center;
+    width: 400px;
+    
+}
+
+.Block1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;  
+    background-color: rgb(233, 129, 198);
+    text-align: center;
+    width: 1000px;
+    height: 500px;
+    border-radius: 20px;
+    border: 2px solid #000;
+}
+
+.Block2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;  
+    background-color: rgb(233, 129, 198);
+    text-align: center;
+    width: 1000px;
+    height: 200px;
+    border-radius: 20px;
+    border: 2px solid #000;
+    
+}
+
+.bold-text {
+    font-weight: bold; 
+    font-size: 18px; 
+    font-family: Arial, sans-serif; 
+    color: #000000; 
+}
+img {
+    border-radius: 50%; 
+    border: 2px solid #000;
+}
